@@ -5,3 +5,5 @@ Vous avez la possibilité de visualiser des projets de Data Analyse très intere
 
 Hello, \
 You have the opportunity to view some very interesting Data Analysis projects I've done on Power BI. To do so, please consult the **presentation_projets** file above.
+
+**NB : D'autres projets de data analyse déjà éffectués seront rajoutés au fur et à mesure !!**
