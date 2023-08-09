@@ -1,6 +1,6 @@
 # Portfolio-Data-Analysis
 
-**Projets Data Analyse :** \
+**Projets Analyse des ventes :** \
 Retrouvez ici les differents projets de Data Analyse effectués sur Microsoft Power BI. Chaque projet est présenté grace à un Google Slide ou Power Point.
 
 
