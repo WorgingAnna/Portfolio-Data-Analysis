@@ -10,4 +10,4 @@ https://docs.google.com/presentation/d/1XA52cz5QreoeVoOjA5g-g9UurP_wARzMtCYciKJP
 
 Le lien ci-dessous permet de voir les rapports Power BI consernant l'analyse des métiers de la data :
 
-https://www.canva.com/design/DAFrtVTFhpI/smdO3YFHsDx4S4ordfZKCQ/watch?utm_content=DAFrtVTFhpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+https://www.canva.com/design/DAGEpUzXcaA/lsMWl9FecRf28B-CwWE70g/edit?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
