@@ -1,6 +1,6 @@
 ## Projets Analyse des métiers de la Data :
 
-Ce projet a été entièrement effectué sur Microsoft Power BI. Chaque projet est présenté grace à un Google Slide ou Power Point. 
+Ce projet a été entièrement effectué sur Microsoft Power BI. Chaque projet est présenté grace à un Google Slide ou Power Point et une vidéo pour voir les interactions. 
 
 Cliquez le lien ci-dessous pour acceder à la présentation Power Point du projet "Data Analyse Entreprise Recrutement" :
 
@@ -15,7 +15,7 @@ https://www.canva.com/design/DAGEpUzXcaA/lsMWl9FecRf28B-CwWE70g/edit?utm_content
 
 **English version :**
 
-This project was carried out entirely on Microsoft Power BI. Each project is presented using a Google Slide or Power Point. 
+This project was carried out entirely on Microsoft Power BI. Each project is presented using a Google Slide or Power Point and a video to show the interactions. 
 
 Click on the link below to access the Power Point presentation of the “Data Analyse Entreprise Recrutement” project:
 
