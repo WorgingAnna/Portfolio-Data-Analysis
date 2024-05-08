@@ -19,8 +19,7 @@ This project was carried out entirely on Microsoft Power BI. Each project is pre
 
 Click on the link below to access the Power Point presentation of the “Data Analyse Entreprise Recrutement” project:
 
-LINK****
-
+https://docs.google.com/presentation/d/16XcBMlzo15nkd932d0HYmF5xrPY7U78cxBlq4bBAJB8/edit?usp=sharing
 
 Click on the link below for an overview of Power BI reports of the “Data Analyse Entreprise Recrutement” project in a video: https://www.canva.com/design/DAGEpUzXcaA/lsMWl9FecRf28B-CwWE70g/edit?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
