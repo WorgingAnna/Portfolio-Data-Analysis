@@ -1,5 +1,4 @@
-**Version française** \
-
+**Version française** 
 # Portfolio-Data-Analysis
 Salut, \
 Vous avez la possibilité de visualiser des projets de Data Analyse très interessants que j'ai effectué sur Power BI. Pour cela consultez les fichiers:  
