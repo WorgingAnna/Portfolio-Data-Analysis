@@ -12,7 +12,7 @@ Le lien ci-dessous permet de voir les rapports Power BI consernant l'analyse des
 
 https://www.canva.com/design/DAGEpUzXcaA/6k09T6aH8DaV_mg6kqRP_g/watch?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-
+--------------------------------------------------------------------------------------------------------
 **English version :**
 
 This project was carried out entirely on Microsoft Power BI. Each project is presented using a Google Slide or Power Point and a video to show the interactions. 
