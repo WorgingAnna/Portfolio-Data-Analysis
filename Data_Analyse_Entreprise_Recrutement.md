@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1XA52cz5QreoeVoOjA5g-g9UurP_wARzMtCYciKJP
 
 Le lien ci-dessous permet de voir les rapports Power BI consernant l'analyse des métiers de la data :
 
-https://www.canva.com/design/DAGEpUzXcaA/lsMWl9FecRf28B-CwWE70g/edit?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGEpUzXcaA/6k09T6aH8DaV_mg6kqRP_g/watch?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
 **English version :**
@@ -21,6 +21,7 @@ Click on the link below to access the Power Point presentation of the “Data An
 
 https://docs.google.com/presentation/d/16XcBMlzo15nkd932d0HYmF5xrPY7U78cxBlq4bBAJB8/edit?usp=sharing
 
-Click on the link below for an overview of Power BI reports of the “Data Analyse Entreprise Recrutement” project in a video: https://www.canva.com/design/DAGEpUzXcaA/lsMWl9FecRf28B-CwWE70g/edit?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Click on the link below for an overview of Power BI reports of the “Data Analyse Entreprise Recrutement” project in a video: 
+https://www.canva.com/design/DAGEpUzXcaA/6k09T6aH8DaV_mg6kqRP_g/watch?utm_content=DAGEpUzXcaA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Note: Other data analysis projects already underway will be added as they become available!
