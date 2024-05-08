@@ -17,16 +17,15 @@ Le principal outil utilisé dans les différents projets est Microsoft Power BI.
 
 ---------------------------------------------------------------------------------------------------------
 **English version :** \
+**Sales analysis projects :** \
+Find here the different Data Analysis projects carried out on Microsoft Power BI. Each project is presented using a Google Slide or Power Point and a video.
 
-Sales analysis projects :
-Find here the different Data Analysis projects carried out on Microsoft Power BI. Each project is presented using a Google Slide or Power Point.
-
-Click on the link below to access the Power Point presentation of the “Sales analysis of a manufacturing company” project:
+Click on the link below to access the Power Point **presentation** of the “Sales analysis of a manufacturing company” project:
 
 
 https://docs.google.com/presentation/d/1XxLrRKDfX-XHc2bbMVuF4JEy71COUYOiLaF5SVDQF58/edit?usp=sharing
 
-Click on the link below for an overview of Power BI reports of sales analysis in a video:
+Click on the link below for an overview of Power BI reports of sales analysis in a **video**:
 https://www.canva.com/design/DAFrtVTFhpI/smdO3YFHsDx4S4ordfZKCQ/watch?utm_content=DAFrtVTFhpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 **Note: Other data analysis projects already underway will be added as they become available!**
