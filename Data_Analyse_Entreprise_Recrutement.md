@@ -1,4 +1,4 @@
-## Projets Analyse des métiers de la Data :
+## Projet Analyse des métiers de la Data :
 
 Ce projet a été entièrement effectué sur Microsoft Power BI. Chaque projet est présenté grace à un Google Slide ou Power Point et une vidéo pour voir les interactions. 
 
