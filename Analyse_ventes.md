@@ -15,7 +15,7 @@ Le principal outil utilisé dans les différents projets est Microsoft Power BI.
 
 **NB : D'autres projets de data analyse déjà éffectués seront rajoutés au fur et à mesure !!**
 
-
+---------------------------------------------------------------------------------------------------------
 **English version :** \
 https://docs.google.com/presentation/d/1XxLrRKDfX-XHc2bbMVuF4JEy71COUYOiLaF5SVDQF58/edit?usp=sharing
 
