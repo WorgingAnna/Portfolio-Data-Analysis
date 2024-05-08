@@ -1,3 +1,4 @@
+**Version française** \
 # Portfolio-Data-Analysis
 Salut, \
 Vous avez la possibilité de visualiser des projets de Data Analyse très interessants que j'ai effectué sur Power BI. Pour cela consultez les fichiers:  
@@ -9,7 +10,7 @@ Parmis ces projets :
 - Projet Data Analyse pour **une entreprise de télécommunications** : dans cette étude de cas Power BI, j'étudie un ensemble de données provenant d'un exemple d'entreprise de télécommunications appelé Databel et j'analyse leurs taux de désabonnement. Analyser le taux de désabonnement ne signifie pas seulement connaître le taux de désabonnement : il s'agit également de comprendre pourquoi les clients se désabonnent à ce rythme et comment réduire le taux de désabonnement.
 
 --------------
-
+**English version** \
 Hello, \
 You can view some very interesting data analysis projects I've carried out using Power BI. Please consult the files:  
 - **Analyse_ventes**: in this project, I'm doing a detailed analysis of the sales of a manufacturing company called Sintec. This analysis provides an overview of the company's internal business, as well as a global view of the market (competitor analysis).
